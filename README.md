@@ -80,3 +80,6 @@ Ability to create awareness content
 📌 Conclusion
 
 Digital literacy is essential in today’s world. Being a responsible digital citizen helps create a safer and more positive online environment for everyone
+## 📊 Digital Literacy Quiz
+I have created a Google Form to spread awareness about digital literacy:
+👉  https://forms.gle/4KShbCihEwVcCuf28
