@@ -58,9 +58,9 @@ Canva (for infographic)
 
 Google Docs
 
-linkdin
+GitHub: himanshu25mip10083-sys
 
-github
+LinkedIn: www.linkedin.com/in/himanshu-jain-0738a4391
 
 kaggle
 
